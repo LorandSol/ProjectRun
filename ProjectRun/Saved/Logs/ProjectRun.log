@@ -1392,3 +1392,20 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.28-08.31.10:116][  0]LogViewport: Scene viewport resized to 1876x848, mode Windowed.
 [2023.06.28-08.31.35:934][258]LogSlate: Window 'Content Browser' being destroyed
 [2023.06.28-08.33.31:226][604]LogDerivedDataCache: C:/Users/jared/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:30.363 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 15887 files in 18800 folders with total size 3081 MiB.
+[2023.06.28-08.41.20:815][250]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.06.28-08.41.24:570][445]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.28-08.41.24:696][446]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.06.28-08.41.24:696][446]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.06.28-08.41.24:698][446]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_17
+[2023.06.28-08.41.24:708][446]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_17
+[2023.06.28-08.41.25:619][493]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.06.28-08.41.25:619][493]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.06.28-08.41.25:624][493]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F74A14906B09001_1818023199
+[2023.06.28-08.41.25:625][493]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F74A14906B09001_1818023199
+[2023.06.28-08.41.49:780][834]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.28-08.41.49:890][834]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/I9/97U99P6MD8FZO4R3KHNTZ0
+[2023.06.28-08.41.49:890][834]LogSavePackage: Moving 'C:/Users/jared/Documents/GitHub/ProjectRun/ProjectRun/Saved/97U99P6MD8FZO4R3KHNTZ0043BFC1744B9B671EEC6398501D9B695.tmp' to 'C:/Users/jared/Documents/GitHub/ProjectRun/ProjectRun/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/I9/97U99P6MD8FZO4R3KHNTZ0.uasset'
+[2023.06.28-08.41.49:911][834]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 336 ms)
+[2023.06.28-08.41.49:915][834]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_F02F74A14906B09001_1818023199
+[2023.06.28-08.41.49:916][834]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F74A14906B09001_1818023199
+[2023.06.28-08.42.07:345][344]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
