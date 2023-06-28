@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jared/Documents/GitHub/ProjectRun/ProjectRun/Content/StarterContent/Audio/Collapse01.uasset"
+			]
+		}
+	]
+}
