@@ -9,3 +9,11 @@ ProjectRun/Saved/Logs/ProjectRun.log
 *.ini
 *.bin
 *.png
+ProjectRun/Saved/Logs/ProjectRun.log
+*.log
+*.png
+*.ini
+*.bin
+ProjectRun/Intermediate/CachedAssetRegistry.bin
+ProjectRun/Saved/AutoScreenshot.png
+ProjectRun/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
