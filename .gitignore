@@ -5,3 +5,7 @@ ProjectRun/Saved/Logs/ProjectRun.log
 *.log
 ProjectRun/Saved/Logs/ProjectRun.log
 *.log
+*.log
+*.ini
+*.bin
+*.png
