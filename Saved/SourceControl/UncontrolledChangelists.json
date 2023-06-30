@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/MSI/Desktop/ProjectRun/Content/Level/level_3_Dean.umap",
+				"C:/Users/MSI/Desktop/ProjectRun/Content/Level/_GENERATED/MSI/CubeGridToolOutput_7F0EDD09.uasset",
 				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Plugins/ParkourSystemPlugins/Content/Actors/BP_ThirdPersonParkourMan.uasset",
 				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
