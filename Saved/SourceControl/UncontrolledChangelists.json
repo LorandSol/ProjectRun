@@ -5,18 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/__ExternalActors__/JaredStuff/Grappling/JaredGrappleCorner/E/YH/W0VMKI6NSXCSD2FMFJWHB9.uasset",
+				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/BP_GrappleLine.uasset",
+				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/Grappling.uasset",
+				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/BP_GrappleTarget.uasset",
+				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/BP_GrappleHook.uasset",
+				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/BP_ThirdPersonJared.uasset",
+				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/LaylaStuff/BP_ThirdPersonLayla.uasset",
+				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/__ExternalActors__/JaredStuff/Grappling/JaredGrappleCorner/7/E2/7B4ZDIMTHIFC045ZHFZGV9.uasset",
 				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/__ExternalActors__/JaredStuff/Grappling/JaredGrappleCorner/A/7D/Y54L6WFH615CDCI0SCT24V.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/Level/level_1_AA.umap",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/LaylaStuff/BP_ThirdPersonLayla.uasset"
-=======
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/level_1_AA.umap",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_7CDD5F3C.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_7F563AFE.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/Cylinder_7A6DB8E5.uasset"
->>>>>>> Stashed changes
+				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/__ExternalActors__/JaredStuff/Grappling/JaredGrappleCorner/D/JW/E5DT0NM2E6DEPWHAIYQPKD.uasset",
+				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/__ExternalActors__/JaredStuff/Grappling/JaredGrappleCorner/E/YH/W0VMKI6NSXCSD2FMFJWHB9.uasset",
+				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
 			]
 		}
 	]
