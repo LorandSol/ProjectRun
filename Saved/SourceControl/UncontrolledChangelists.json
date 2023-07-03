@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/GameBP/BP_AnthonyWallRunRetry.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/Ninja/AM_RWallRun.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/Ninja/Animation/ABP_Ninja.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
 				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/level_1_AA.umap",
 				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_7F563AFE.uasset",
 				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_FC4E2DC0.uasset",
