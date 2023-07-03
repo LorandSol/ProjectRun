@@ -5,21 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-=======
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/LaylaStuff/ParkourAnimations/Parkour_Animations/MQ_GettingUp_RM.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/LaylaStuff/ParkourAnimations/Parkour_Animations/MQ_JumpingDownFromWall_RM.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/LaylaStuff/ParkourAnimations/Parkour_Animations/MQ_Vault_RM.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/LaylaStuff/BP_ThirdPersonLayla.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/T_GrappleTarget.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/BP_GrappleTarget.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/E_GrappleState.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/Grappling.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/BP_ThirdPersonJared.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/GrappleWidget.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/JaredsGrappleCorner.umap",
 				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/BP_GrappleHook.uasset",
+<<<<<<< Updated upstream
 				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/BP_GrappleLine.uasset",
 				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XF/JYJ0LIWPEETHBVXYH6DMMR.uasset",
 				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IT/A67PDDEK2P54843TNLQAFT.uasset",
@@ -104,10 +91,10 @@
 				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/LaylaStuff/ParkourAnimations/Parkour_Animations/MQ_JumpingDownFromWall_RM.uasset",
 				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/LaylaStuff/ParkourAnimations/Parkour_Animations/MQ_Vault_RM.uasset",
 				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/LaylaStuff/BP_ThirdPersonLayla.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
 =======
-				"C:/Users/Andre/Desktop/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/Grappling.uasset",
 >>>>>>> Stashed changes
+				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
 			]
 		}
 	]
