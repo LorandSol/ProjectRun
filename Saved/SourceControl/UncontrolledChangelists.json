@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/BP_ThirdPersonJared.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/__ExternalActors__/JaredStuff/Grappling/JaredGrappleCorner/B/KM/FF2K0VADDVZKQFD78JEKF1.uasset",
 				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/BP_GrappleLine.uasset",
 				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/Grappling.uasset",
 				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/BP_GrappleTarget.uasset",
