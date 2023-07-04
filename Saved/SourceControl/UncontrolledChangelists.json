@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/level_4_Tullia.umap",
 				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/_GENERATED/tulli/CubeGridToolOutput_69132C05.uasset",
@@ -23,6 +24,27 @@
 				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/_GENERATED/tulli/CubeGridToolOutput_F0D40145.uasset",
 				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/_GENERATED/tulli/CubeGridToolOutput_C3CD3C4A.uasset",
 				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/_GENERATED/tulli/Box_FED4F7F7.uasset",
+=======
+				"D:/da heck/ProjectRun/Content/Level/level_2_Will.umap",
+				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/Box_F73176D2.uasset",
+				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/CubeGridToolOutput_6230CE4E.uasset",
+				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/CubeGridToolOutput_19F14FB3.uasset",
+				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/Cylinder_162FCC75.uasset",
+				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/CubeGridToolOutput_9E535338.uasset",
+				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/Stairs_FE37A7B1.uasset",
+				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/CubeGridToolOutput_5E726954.uasset",
+				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/CubeGridToolOutput_E8555FB0.uasset",
+				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/CubeGridToolOutput_E7D89216.uasset",
+				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/CubeGridToolOutput_3811C430.uasset",
+				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/CubeGridToolOutput_DDD26281.uasset",
+				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/CubeGridToolOutput_435DDA59.uasset",
+				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/CubeGridToolOutput_D721E8F9.uasset",
+				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/CubeGridToolOutput_F25277BB.uasset",
+				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/CubeGridToolOutput_FBA05EA4.uasset",
+				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/CubeGridToolOutput_2639E290.uasset",
+				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/CubeGridToolOutput_3BC08BC8.uasset",
+				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/CubeGridToolOutput_1B526A9F.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/Ninja/IK_Ninja.uasset",
 				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/Characters/Mannequins/Rigs/IK_Mannequin.uasset",
 				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/Ninja/IKR_Ninja.uasset",
@@ -62,10 +84,7 @@
 				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Animation/New_Climb_RM.uasset",
 				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/LaylaStuff/ABP_ParkourManLayla.uasset",
 				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Animation/MM_Land.uasset",
-				"D:/da heck/ProjectRun/Content/Level/level_2_Will.umap",
-				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/Box_F73176D2.uasset",
-				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/CubeGridToolOutput_6230CE4E.uasset"
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Animation/MM_Land.uasset"
 			]
 		}
 	]
