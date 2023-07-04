@@ -8,7 +8,31 @@
 				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/Ninja/IK_Ninja.uasset",
 				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/Characters/Mannequins/Rigs/IK_Mannequin.uasset",
 				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/Ninja/IKR_Ninja.uasset",
-				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/Characters/Mannequins/Meshes/IK_UnrealManny.uasset"
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/Characters/Mannequins/Meshes/IK_UnrealManny.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Textures/Ch03_1001_Specular.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Textures/Ch03_1001_Diffuse.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Textures/Ch03_1001_Glossiness.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Textures/Ch03_1001_Normal.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Material/Ch03_Body.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Character.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Character_Anim_mixamo_com.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Character_PhysicsAsset.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Character_Skeleton.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/climb_up.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/quick_vault.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Running.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Slide.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Vault_Over_Box.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Walking.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Animation/BSL_Bill.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Ninja_Idle.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Animation/ANBP_Character.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/LaylaStuff/BP_ThirdPersonLayla.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/Ninja/Animation/ABP_Ninja.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/climb_up_Montage.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/quick_vault_Montage.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Slide_Montage.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Vault_Over_Box_Montage.uasset"
 			]
 		}
 	]
