@@ -5,9 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/da heck/ProjectRun/Content/Level/level_2_Will.umap",
-				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/Box_F73176D2.uasset",
-				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/CubeGridToolOutput_6230CE4E.uasset",
 				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/Ninja/IK_Ninja.uasset",
 				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/Characters/Mannequins/Rigs/IK_Mannequin.uasset",
 				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/Ninja/IKR_Ninja.uasset",
@@ -35,7 +32,22 @@
 				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/climb_up_Montage.uasset",
 				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/quick_vault_Montage.uasset",
 				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Slide_Montage.uasset",
-				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Vault_Over_Box_Montage.uasset"
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Vault_Over_Box_Montage.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/LaylaStuff/IKR_NewCharacter.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/MF_Run_Fwd.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Animation/New_Fall_Loop.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Animation/New_Idle.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Animation/New_Jump.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Animation/New_Land.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Animation/New_Run_Fwd.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Animation/New_Walk_Fwd.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Animation/New_Climb_RM.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/LaylaStuff/ABP_ParkourManLayla.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Animation/MM_Land.uasset",
+				"D:/da heck/ProjectRun/Content/Level/level_2_Will.umap",
+				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/Box_F73176D2.uasset",
+				"D:/da heck/ProjectRun/Content/Level/_GENERATED/willb/CubeGridToolOutput_6230CE4E.uasset"
 			]
 		}
 	]
