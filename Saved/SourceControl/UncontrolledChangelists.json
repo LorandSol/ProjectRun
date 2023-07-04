@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/level_1_AA.umap",
+				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_7CDD5F3C.uasset",
+				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_7F563AFE.uasset",
+				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_FC4E2DC0.uasset",
+				"C:/Users/Andre/Desktop/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/BP_GrappleLine.uasset",
 				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/Grappling.uasset",
 				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/BP_GrappleTarget.uasset",
