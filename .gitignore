@@ -17,3 +17,6 @@ ProjectRun/Saved/Logs/ProjectRun.log
 ProjectRun/Intermediate/CachedAssetRegistry.bin
 ProjectRun/Saved/AutoScreenshot.png
 ProjectRun/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/SourceControl/UncontrolledChangelists.json
+*.json
+Saved/SourceControl/UncontrolledChangelists.json
