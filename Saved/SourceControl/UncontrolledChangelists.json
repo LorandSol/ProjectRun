@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/level_4_Tullia.umap",
 				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/_GENERATED/tulli/CubeGridToolOutput_69132C05.uasset",
@@ -85,6 +86,12 @@
 				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/LaylaStuff/ABP_ParkourManLayla.uasset",
 				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/AndreCharacter/Animation/MM_Land.uasset"
+=======
+				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/level_1_AA.umap",
+				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_7CDD5F3C.uasset",
+				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_C0A027BC.uasset",
+				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_DECB3E8E.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
