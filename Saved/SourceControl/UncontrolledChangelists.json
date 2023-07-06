@@ -5,41 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/LaylaStuff/Blueprints/BP_Timer.uasset",
-				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/LaylaStuff/ParkourTestLevel_LD.umap",
-				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/LaylaStuff/BP_ThirdPersonMain.uasset",
-				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/LaylaStuff/Blueprints/BP_NextLevelTeleport.uasset",
-				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/__ExternalActors__/LaylaStuff/ParkourTestLevel_LD/6/UP/XSB7KBWIJ2XS0KEALHJZ5N.uasset",
-				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/JaredStuff/Grappling/JaredGrappleCorner.umap"
-=======
-				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/level_4_Tullia.umap",
-				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/_GENERATED/tulli/CubeGridToolOutput_42F6CDCE.uasset",
-				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/_GENERATED/tulli/CubeGridToolOutput_7EDDBBF5.uasset",
-				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/_GENERATED/tulli/CubeGridToolOutput_D4D72EB1.uasset",
-				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/_GENERATED/tulli/Cylinder_2EAFEDA4.uasset",
-				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/_GENERATED/tulli/Box_12E5A8FF.uasset",
-				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/_GENERATED/tulli/CubeGridToolOutput_1E4E52B3.uasset",
-				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/_GENERATED/tulli/Stairs_A811861D.uasset",
-				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/_GENERATED/tulli/Box_FBE0F2BA.uasset"
->>>>>>> Stashed changes
-=======
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/level_1_AA.umap",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_63145BC3.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_7CDD5F3C.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_7F563AFE.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_B3D7590B.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_FC4E2DC0.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_C8F31173.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/Box_475EFFA4.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/Box_1547B3E8.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/Stairs_168D2B5E.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_1207F4CB.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_F5CCDD0D.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/Stairs_1BA17CAB.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/Box_4179D867.uasset"
->>>>>>> Stashed changes
+				"C:/Users/MSI/Desktop/ProjectRun/Content/Level/level_3_Dean.umap",
+				"C:/Users/MSI/Desktop/ProjectRun/Content/Level/_GENERATED/MSI/CubeGridToolOutput_9728122F.uasset"
 			]
 		}
 	]
