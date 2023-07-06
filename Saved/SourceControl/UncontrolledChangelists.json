@@ -5,33 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/LaylaStuff/BP_ThirdPersonMain.uasset",
+				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/LaylaStuff/Blueprints/BP_Timer.uasset",
 				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/LaylaStuff/ParkourTestLevel_LD.umap",
-				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/Widgets/PauseMenu_Widget.uasset",
+				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/LaylaStuff/BP_ThirdPersonMain.uasset",
 				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/LaylaStuff/Blueprints/BP_NextLevelTeleport.uasset",
-				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/__ExternalActors__/LaylaStuff/ParkourTestLevel_LD/A/HZ/U0H8G0OK9EAGT6MY0DXBV9.uasset",
-				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/JaredStuff/Grappling/JaredGrappleCorner.umap",
-				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/Widgets/NextLevel_Widget.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/BP_Respawn.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/BP_KillBarrier.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/__ExternalActors__/JaredStuff/Grappling/JaredGrappleCorner/8/3I/UY8M5MTXGGO07R8AVDSHKZ.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/JaredGrappleCorner.umap",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/__ExternalActors__/JaredStuff/Grappling/JaredGrappleCorner/0/A2/4I3L79Z0VQ4NE1T4LC9GVQ.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/LaylaStuff/BP_ThirdPersonMain.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/__ExternalActors__/JaredStuff/Grappling/JaredGrappleCorner/0/R3/QUELCKR0JCVBEWQMIMY3O6.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/Blueprints/Grappling.uasset"
-=======
-				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/level_4_Tullia.umap",
-				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/_GENERATED/tulli/CubeGridToolOutput_692AEF47.uasset",
-				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/_GENERATED/tulli/CubeGridToolOutput_1E4E52B3.uasset",
-				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/_GENERATED/tulli/Box_12E5A8FF.uasset",
-				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/_GENERATED/tulli/Box_5025240E.uasset",
-				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/_GENERATED/tulli/CubeGridToolOutput_502DB011.uasset",
-				"C:/Users/tulli/Documents/GitHub/ProjectRun/Content/Level/_GENERATED/tulli/Cylinder_472363D5.uasset"
->>>>>>> Stashed changes
+				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/__ExternalActors__/LaylaStuff/ParkourTestLevel_LD/6/UP/XSB7KBWIJ2XS0KEALHJZ5N.uasset",
+				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/JaredStuff/Grappling/JaredGrappleCorner.umap"
 			]
 		}
 	]
