@@ -5,66 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-=======
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/level_1_AA.umap",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_490A584B.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_7CDD5F3C.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_7F563AFE.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_AC37E30E.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/Box_8C4F3E29.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/Rectangle_F39D75A3.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_A826C9FA.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/Rectangle_B7A6B0BF.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/Box_367AE886.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_BCF17AA0.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_B3D7590B.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_36EB8BDA.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_A6AC493D.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_E635A0A1.uasset",
 				"C:/Users/MSI/Desktop/ProjectRun/Content/Level/level_3_Dean.umap",
-				"C:/Users/MSI/Desktop/ProjectRun/Content/Level/_GENERATED/MSI/CubeGridToolOutput_7F0EDD09.uasset",
-				"C:/Users/MSI/Desktop/ProjectRun/Content/Level/_GENERATED/MSI/CubeGridToolOutput_67405B85.uasset",
-				"C:/Users/MSI/Desktop/ProjectRun/Content/Level/_GENERATED/MSI/CubeGridToolOutput_9728122F.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/LaylaStuff/BP_MannyThirdPersonLayla.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/Level/level_1_AA.umap",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
->>>>>>> Stashed changes
-				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/LaylaStuff/BP_MannyThirdPersonLayla.uasset",
-				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/__ExternalActors__/LaylaStuff/ParkourTestLevel_LD/0/OD/NYNPOLOG7L99RX3PRSLIN3.uasset",
-				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/__ExternalActors__/LaylaStuff/ParkourTestLevel_LD/0/Y4/8KG3K9NTVGCTM4E672LBWG.uasset",
-				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/__ExternalActors__/LaylaStuff/ParkourTestLevel_LD/7/8U/29GWIYHHF9X18KH5UU4KR3.uasset",
-				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/__ExternalActors__/LaylaStuff/ParkourTestLevel_LD/8/MX/2WZCWLZZ9VVQPXR6FHHLTV.uasset",
-				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/GameBP/BP_Anthony.uasset",
-				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/LaylaStuff/ABP_MannyParkourManLayla.uasset",
-				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/Ninja/Animation/wall_run_end.uasset",
-				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/Ninja/Animation/Wall_Run_mid_wall_run.uasset",
-<<<<<<< Updated upstream
-				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/Ninja/Animation/Wall_Run_start.uasset",
-				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/LaylaStuff/BP_ThirdPersonMain.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/LaylaStuff/BP_MannyThirdPersonLayla.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/Level/level_1_AA.umap",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/LaylaStuff/BP_ThirdPersonMain.uasset",
-				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/JaredStuff/Grappling/Blueprints/Grappling.uasset",
-				"C:/Users/MSI/Desktop/ProjectRun/Content/Level/level_3_Dean.umap",
-				"C:/Users/MSI/Desktop/ProjectRun/Content/Level/_GENERATED/MSI/CubeGridToolOutput_7F0EDD09.uasset",
-				"C:/Users/MSI/Desktop/ProjectRun/Content/Level/_GENERATED/MSI/CubeGridToolOutput_67405B85.uasset",
-				"C:/Users/MSI/Desktop/ProjectRun/Content/Level/_GENERATED/MSI/CubeGridToolOutput_9728122F.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/level_1_AA.umap",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_490A584B.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_7CDD5F3C.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_7F563AFE.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_AC37E30E.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/Box_8C4F3E29.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/Rectangle_F39D75A3.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_A826C9FA.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
-=======
-				"C:/Users/antho/OneDrive/Documents/GitHub/ProjectRun/Content/AnthonyStuff/Ninja/Animation/Wall_Run_start.uasset"
->>>>>>> Stashed changes
+				"C:/Users/MSI/Desktop/ProjectRun/Content/Level/_GENERATED/MSI/CubeGridToolOutput_9728122F.uasset"
 			]
 		}
 	]
