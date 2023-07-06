@@ -5,21 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-				"C:/Users/MSI/Desktop/ProjectRun/Content/Level/level_3_Dean.umap",
-				"C:/Users/MSI/Desktop/ProjectRun/Content/Level/_GENERATED/MSI/CubeGridToolOutput_9728122F.uasset"
-=======
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/level_1_AA.umap",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_63145BC3.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_7CDD5F3C.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_7F563AFE.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_8A619A9D.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/Box_3B316913.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/Box_595CA3A7.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/Stairs_E7350FAD.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_1F335D70.uasset",
-				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/_GENERATED/Andre/CubeGridToolOutput_A973F1D5.uasset"
->>>>>>> Stashed changes
+				"C:/Users/Andre/Desktop/ProjectRun/Content/Level/level_1_AA.umap"
 			]
 		}
 	]
