@@ -5,8 +5,28 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/MSI/Desktop/ProjectRun/Content/Level/level_3_Dean.umap",
 				"C:/Users/MSI/Desktop/ProjectRun/Content/Level/_GENERATED/MSI/CubeGridToolOutput_9728122F.uasset",
+=======
+				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/Widgets/Sliding_Widget.uasset",
+				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/LaylaStuff/Blueprints/BP_SlidingCue.uasset",
+				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/Level/Tutorial.umap",
+				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/Widgets/Jump_Widget.uasset",
+				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/LaylaStuff/Blueprints/BP_JumpingCue.uasset",
+				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/LaylaStuff/Blueprints/BP_ClimbingCue.uasset",
+				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/LaylaStuff/Blueprints/BP_GrappleCue.uasset",
+				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/LaylaStuff/Blueprints/BP_VaultingCue.uasset",
+				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/LaylaStuff/Blueprints/BP_WallRunCue.uasset",
+				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/Widgets/Climb_Widget.uasset",
+				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/Widgets/Grapple_Widget.uasset",
+				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/Widgets/Vault_Widget.uasset",
+				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/Widgets/WallRun_Widget.uasset",
+				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/Widgets/GrappleSymbol.uasset",
+				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/Widgets/PauseMenu_Widget.uasset",
+				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/Widgets/InstructionsMenu_Widget.uasset",
+				"C:/Users/layla/OneDrive/Desktop/Uni/PPR301/Game GitHub/PorjectRunA2/ProjectRun/Content/Widgets/Grapple_WidgetTUT.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/Sounds/Hookshot/Hookshots.uasset",
 				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/LaylaStuff/BP_ThirdPersonMain.uasset",
 				"C:/Users/jared/Documents/GitHub/ProjectRun/Content/Sounds/Hookshot/hookshot.uasset"
